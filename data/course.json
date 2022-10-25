@@ -2,44 +2,103 @@
   {
     "id": "01",
     "name": "HTML5 and CSS3",
+    "title": "Html",
     "img": "https://i.ibb.co/bdcBp79/html-and-css.jpg",
+    "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flex-box and CSS Grid",
     "student": "366",
-    "rating": "4.6"
-
+    "rating": "4.6",
+    "icon": "https://i.ibb.co/N3zd4yj/html-icon.png",
+    "goals": "The fundamentals of modern and semantic HTML, CSS, and building layouts in a small separate project, which will prepare you for the main course project. This includes modern fle-xbox and CSS Grid! How to design beautiful websites, by learning a web design framework. It consists of easy-to-use guidelines for design aspects like typography, colors, images, spacing, and more (this is like a small standalone course!). How to use well-established website components and layout patterns in order to come up with professional-looking designs. How to make any website work on any mobile device, no matter the design and layout (responsive design). How to use the 7 steps of building a professional website in practice: planning, sketching, designing, building, testing, optimizing, and launching How to find and use free design assets such as images, fonts, and icons Important developer skills such as reading documentation, fixing code errors on your own, and using professional web development tools.",
+    "author": {
+      "name": "Jonas Schmedtmann",
+      "title": "Web Developer, Designer, and Teacher",
+      "about": "Hi, I'm Jonas! I have been identified as one of the Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.",
+      "img": "https://i.ibb.co/fMRSqCC/html-instructor.jpg"
+    }
   },
   {
     "id": "02",
     "name": "JavaScript And ES6",
+    "title": "JavaScript",
     "img": "https://i.ibb.co/7zPCs2N/javascript-and-es6.jpg",
+    "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
     "student": "331",
-    "rating": "4.5"
+    "rating": "4.5",
+    "icon": "https://i.ibb.co/Q6PCjMX/js-icon.png",
+    "goals": "Learn modern JavaScript (ES6+) from the beginning: arrow functions, destructuring, spread operator, default arguments, optional chaining (ES2020), and more. How JavaScript works behind the scenes: engines, the call stack, hoisting, scoping, the 'this' keyword, reference values, and more. Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures. Deep dive into object-oriented programming: prototypal inheritance, constructor functions (ES5), classes (ES6), encapsulation, abstraction, inheritance, and polymorphism. [This is like a small standalone course]. Deep dive into asynchronous JavaScript: the event loop, promises, async/await, and error handling. You will use these to access data from third-party APIs with AJAX calls. [This is like a small standalone course]. Learn modern tools that are used by professional web developers: NPM, Parcel (module bundler), Babel, and ES6 modules",
+    "author": {
+      "name": "Mosh Hamedani",
+      "title": "Web Developer, Software Engineer",
+      "about": "Hi! My name is Mosh (Moshfegh) Hamedani! I'm a passionate software engineer with two decades of experience and I've taught over 3 million people become professional software engineers through my online courses.",
+      "img": "https://i.ibb.co/mSvZyXw/js-instructor.jpg"
+    }
   },
   {
     "id": "03",
     "name": "React JS Core Features",
+    "title": "React JS",
     "img": "https://i.ibb.co/3CnmCS6/react-js.png",
+    "description": "Learn how to build and launch React web applications using React, Redux, Webpack, React-Router, and more!",
     "student": "416",
-    "rating": "4.7"
+    "rating": "4.7",
+    "icon": "https://i.ibb.co/dt404sb/react-icon.png",
+    "goals": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you. During the course we will also cover redux-toolkit, which is the latest flavor of good old redux and build an interesting project with it. After each tutorial section we will build few projects to put see theory in action. You are not expected to build all projects, but the more course projects, you will complete the easier it's going to be to build your own applications, since you will know how to implement certain features in react.",
+    "author": {
+      "name": "John Smilga",
+      "title": "Web Instructor",
+      "about": "Hello, I am John Smilga and I am a web developer. I live and work in Sarasota, FL. I spend most of my day, experimenting with HTML, CSS and Javascript (and it's endless list of frameworks).",
+      "img": "https://i.ibb.co/NyxVXjc/react-instructor.jpg"
+    }
   },
   {
     "id": "04",
     "name": "Dive Into NodeJs",
+    "title": "Node JS",
     "img": "https://i.ibb.co/cD3cHLM/node-js.jpg",
+    "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
     "student": "105",
-    "rating": "4.1"
+    "rating": "4.1",
+    "icon": "https://i.ibb.co/r4rV2mF/node-icon.png",
+    "goals": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB. The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications. From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done.",
+    "author": {
+      "name": "Andrew Mead",
+      "title": "A Full-stack Developer & Teacher",
+      "about": "I'm Andrew, a full-stack developer living in beautiful Philadelphia! I have a Computer Science degree from Temple University, and I've been programming for just over a decade.",
+      "img": "https://i.ibb.co/FK7Xdk2/node-instructor.jpg"
+    }
   },
   {
     "id": "05",
     "name": "Express Js Crash Course",
+    "title": "Express JS",
     "img": "https://i.ibb.co/Z2JY6Gg/express-js.jpg",
+    "description": "No MERN or MEAN... just Express js. For those who've learned a bit about the most awesome node framework, and want more.",
     "student": "245",
-    "rating": "4.4"
+    "rating": "4.4",
+    "icon": "https://i.ibb.co/jr6VhjJ/express-icon.png",
+    "goals": "I've had a lot of students ask for a course on just Express js because they were either overwhelmed when they learned it, or they can't find any detail on it to go further than beginner knowledge. That's what this course is for. We will go through the various pieces of Express in detail so you can know why it behaves the way it does and get the most out of it. Express 5 is currently in alpha, so when it hits beta or full release, and as questions come up, the course will expand accordingly!",
+    "author": {
+      "name": "Andrew Mead",
+      "title": "Code school instructor, Software engineer",
+      "about": "Robert Bunch has been a developer since 2004, having built complex applications for small tech startups to major companies.",
+      "img": "https://i.ibb.co/3htLvTB/express-instructor.jpg"
+    }
   },
   {
     "id": "06",
     "name": "MongoDB Crash Course",
+    "title": "Mongo DB",
     "img": "https://i.ibb.co/qgvMHMR/mongo-db.jpg",
+    "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
     "student": "80",
-    "rating": "4.1"
+    "rating": "4.1",
+    "icon": "https://i.ibb.co/jLfVtk3/mogodb-icon.png",
+    "goals": "Learn how to use the popular MongooseJS library to interface with Mongo. Write tests around Mongo queries to ensure your code is working. You can reuse these tests on your own personal projects! Master the process of designing NoSQL schema. Grasp the differences record associations and resource embedding. Use the advanced features of Mongoose to save development time. Develop apps that are fast and responsive thanks to Mongo's speed and flexibility. Work on either Windows or OSX. Master the integration of Mongo, Node, and Mocha in a modern development environment",
+    "author": {
+      "name": "Stephen Grider",
+      "title": "Engineering Architect",
+      "about": "Stephen Grider has been building complex Javascript front ends for top corporations. Stephen has been mentoring engineers beginning their careers in software development for years.",
+      "img": "https://i.ibb.co/brFjkwJ/mongodb-instructor.jpg"
+    }
   }
 ]
