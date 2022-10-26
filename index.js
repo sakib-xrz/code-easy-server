@@ -20,7 +20,7 @@ app.get("/course/:id", (req, res) => {
   const singleCourse = courses.find((course) => course.id === id);
   res.send(singleCourse);
 });
-
+ 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
